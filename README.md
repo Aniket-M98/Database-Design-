@@ -1,5 +1,3 @@
-# Database-Design
-
 # Hotel Booking System
 
 ## Overview
